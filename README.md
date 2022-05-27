@@ -4,3 +4,11 @@
 
 # DEMO
 ![result](https://github.com/machumun/vulkan-triangle/blob/master/triangle.png)
+
+# 開発環境
+
+``MacOS 12.2 Monterey``  
+``XCode 13.4``  
+``VulkanSDK 1.3.204``  
+``MoltenVK 1.17``
+
