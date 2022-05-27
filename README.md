@@ -10,7 +10,7 @@
 ``MoltenVK 1.17``
 
 
-# DEMO
+# Result
 ![result](https://github.com/machumun/vulkan-triangle/blob/master/triangle.png)
 
 
